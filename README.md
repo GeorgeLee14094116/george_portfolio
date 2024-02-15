@@ -75,4 +75,4 @@ March 2016 - June 2017, Taiwan
  
 # Education
 - Master of Information Technology | University of Technology Sydney
-- Bachelor of Finance and Banking |Shin Chien University
+- Bachelor of Finance and Banking | Shin Chien University
