@@ -1,2 +1,3 @@
-# george_portfolio
-Analytics portfolio
+# George
+Data Analyst
+
