@@ -1,16 +1,16 @@
 # George | ### Data Analyst
-[tableau](https://public.tableau.com/app/profile/george.lee0322/vizzes)
+[LinkedIn](https://www.linkedin.com/in/georgelee322/) [Tableau](https://public.tableau.com/app/profile/george.lee0322/vizzes)
 
 ### Profile
 With over 2.5 years of diverse industry experience in analysis, I bring a proven track record of translating complex data into valuable insights that drive strategic decision-making. Proficient in Tableau, Power BI, SQL, Python, and Alteryx, I excel in numerical proficiency, data collection, and market research. My commitment to delivering meticulous insights has consistently contributed to business growth. Holds a Master's in Information Technology and a Bachelor's in Finance and Banking.
 
 ## Experience
-**Data Analytics Consultant | The Data School Down Under**
+### **Data Analytics Consultant | The Data School Down Under**
 April 2023 -  September 2023, Australia
-Demonstrated expertise in extracting, analysing, and interpreting complex datasets, enhancing data accuracy using advanced techniques.
-Utilised Tableau, Alteryx, Power BI, and SQL proficiency for efficient data cleaning, transformation, and visualisation, contributing to streamlined workflows.
-Translated data insights into actionable recommendations, consistently contributing to informed decision-making and strategic planning.
-Led successful projects by defining clear objectives, creating comprehensive plans, and streamlining execution with effective task delegation.
+- Demonstrated expertise in extracting, analysing, and interpreting complex datasets, enhancing data accuracy using advanced techniques.
+- Utilised Tableau, Alteryx, Power BI, and SQL proficiency for efficient data cleaning, transformation, and visualisation, contributing to streamlined workflows.
+- Translated data insights into actionable recommendations, consistently contributing to informed decision-making and strategic planning.
+- Led successful projects by defining clear objectives, creating comprehensive plans, and streamlining execution with effective task delegation.
 
 **Data Analyst Internship | JR Academy**
 November 2022 - March 2023, Australia
