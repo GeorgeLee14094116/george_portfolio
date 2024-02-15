@@ -6,7 +6,7 @@ With over 2.5 years of diverse industry experience in analysis, I bring a proven
 ### Tools
 Tableau | PowerBI | SQL | Python | Alteryx
 
-## Experience
+# Experience
 ### **Data Analytics Consultant | The Data School Down Under**
 April 2023 -  September 2023, Australia
 - Demonstrated expertise in extracting, analysing, and interpreting complex datasets, enhancing data accuracy using advanced techniques.
@@ -32,7 +32,7 @@ March 2016 - June 2017, Taiwan
 - Offered strategic guidance on investments and expenditures through comprehensive customer data analysis.
 - Excelled in resolving complex client financial issues, articulating information clearly, and ensuring overall customer satisfaction.
 
-## Project | The data school down under
+# Project | The data school down under
 ### Warehouse Stock | Project Lead
 - Define clear and measurable objectives for the project, ensuring understanding of desired outcomes and goals among all team members.
 - Engage in effective planning by creating a comprehensive project plan with tasks, milestones, timelines, and required resources.
@@ -63,7 +63,7 @@ March 2016 - June 2017, Taiwan
 ### Patient Health | Alteryx
 - Merged and maintained datasets using Alteryx as the primary data source, ensuring accurate data joins for team dashboards in the project.
 
-## Projects | JR Academy
+# Projects | JR Academy
 
 ### Queensland Traffic Accident |  Tableau
 - Utilised SQL and Python for data cleaning and exploration.
@@ -73,6 +73,6 @@ March 2016 - June 2017, Taiwan
 - Employed Python for thorough data preparation in the Attendance Analysis project, ensuring accurate and well-structured datasets for analysis.
 - Utilised Power BI to conduct comprehensive attendance analysis, providing detailed insights into attendance trends and patterns.
  
-### Education
-Master of Information Technology | University of Technology Sydney
-Bachelor of Finance and Banking |Shin Chien University
+## Education
+- Master of Information Technology | University of Technology Sydney
+- Bachelor of Finance and Banking |Shin Chien University
