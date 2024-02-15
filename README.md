@@ -1,5 +1,8 @@
 # George | ### Data Analyst
-[LinkedIn](https://www.linkedin.com/in/georgelee322/) [Tableau](https://public.tableau.com/app/profile/george.lee0322/vizzes)
+[LinkedIn](https://www.linkedin.com/in/georgelee322/) | [Tableau](https://public.tableau.com/app/profile/george.lee0322/vizzes)
+
+### tools
+Tableau|PowerBI|SQL|Python|Alteryx
 
 ### Profile
 With over 2.5 years of diverse industry experience in analysis, I bring a proven track record of translating complex data into valuable insights that drive strategic decision-making. Proficient in Tableau, Power BI, SQL, Python, and Alteryx, I excel in numerical proficiency, data collection, and market research. My commitment to delivering meticulous insights has consistently contributed to business growth. Holds a Master's in Information Technology and a Bachelor's in Finance and Banking.
@@ -30,6 +33,36 @@ March 2016 - June 2017, Taiwan
 - Offered strategic guidance on investments and expenditures through comprehensive customer data analysis.
 - Excelled in resolving complex client financial issues, articulating information clearly, and ensuring overall customer satisfaction.
 
+## Project
+### Warehouse Stock | Project Lead
+- Define clear and measurable objectives for the project, ensuring understanding of desired outcomes and goals among all team members.
+- Engage in effective planning by creating a comprehensive project plan with tasks, milestones, timelines, and required resources.
+- Break down the project into manageable segments and assign responsibilities to team members for streamlined execution.
+
+### MIP - CRM | Tableau
+- Utilised Tableau to analyse and compare time spent on Close Lost and Close Won deals, identifying high-value clients across industries and software.
+- Determined the top-performing salesperson, providing insights for optimising sales strategies and prioritising key opportunities.
+
+### Sale Market | Tableau
+- Used Tableau to analyse yearly changes in shipments and growth rates via a heatmap.
+- Created a rank chart to assess changes over time with various vendors, identifying the vendor with a larger share of sales.
+
+### Pet Insurance | Tableau
+- In the project, my responsibilities involved utilising Tableau to uncover insights specific to dog or cat insurance.
+- Conducted analysis to identify the main reasons for insurance cancellations.
+- Calculated the profit ratio to recommend the most profitable insurance plan based on different pet breeds.
+
+### Life Insurance |  Power BI
+- In the project, my responsibility involved using Power BI to analyse life insurance data across various levels of Census Demographic.
+- Provided actionable insights to aid the insurance company in making informed decisions based on the findings.
+
+### Tourism Bookings | Alteryx
+- The project involves leveraging the Alteryx macro tool for API integration to generate datasets.
+- Enables automatic updates of booking information and future availability checks for the client over the next 18 months.
+- Aims to streamline data retrieval and enhance the client's booking management processes.
+
+### Patient Health | Alteryx
+- Merged and maintained datasets using Alteryx as the primary data source, ensuring accurate data joins for team dashboards in the project.
 
 
 ### Education
