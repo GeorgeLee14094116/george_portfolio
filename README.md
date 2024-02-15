@@ -73,6 +73,6 @@ March 2016 - June 2017, Taiwan
 - Employed Python for thorough data preparation in the Attendance Analysis project, ensuring accurate and well-structured datasets for analysis.
 - Utilised Power BI to conduct comprehensive attendance analysis, providing detailed insights into attendance trends and patterns.
  
-## Education
+# Education
 - Master of Information Technology | University of Technology Sydney
 - Bachelor of Finance and Banking |Shin Chien University
