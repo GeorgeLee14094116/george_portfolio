@@ -12,23 +12,23 @@ April 2023 -  September 2023, Australia
 - Translated data insights into actionable recommendations, consistently contributing to informed decision-making and strategic planning.
 - Led successful projects by defining clear objectives, creating comprehensive plans, and streamlining execution with effective task delegation.
 
-**Data Analyst Internship | JR Academy**
+### **Data Analyst Internship | JR Academy**
 November 2022 - March 2023, Australia
-Proficiently utilised Python for daily data cleaning and processing, ensuring the accuracy and integrity of routine tasks.
-Developed visually engaging dashboards using Tableau to offer clear insights into data patterns.
-Conducted in-depth analysis of datasets, extracting valuable insights to inform strategic decision-making.
+- Proficiently utilised Python for daily data cleaning and processing, ensuring the accuracy and integrity of routine tasks.
+- Developed visually engaging dashboards using Tableau to offer clear insights into data patterns.
+- I conducted an in-depth analysis of datasets, extracting valuable insights to inform strategic decision-making.
 
-**Lead Barista | Charlie Lovett** 
+### **Lead Barista | Charlie Lovett** 
 March 2018 - March 2020, Australia
-Increased revenue significantly through sales analysis and strategic implementation.
-Improved quality standards, reduced excess stock with a record form system.
-Excelled in customer service, describing menu items, resolving concerns, and ensuring brand loyalty.
+- Increased revenue significantly through sales analysis and strategic implementation.
+- Improved quality standards and reduced excess stock with a record form system.
+- Excelled in customer service, describing menu items, resolving concerns, and ensuring brand loyalty.
 
-**Financial Analyst | China Trust Commercial Bank**
+### **Financial Analyst | China Trust Commercial Bank**
 March 2016 - June 2017, Taiwan
-Monitored Conducted detailed financial analyses and provided accurate reports.
-Offered strategic guidance on investments and expenditures through comprehensive customer data analysis.
-Excelled in resolving complex client financial issues, articulating information clearly, and ensuring overall customer satisfaction.
+- Monitored, Conducted detailed financial analyses and provided accurate reports.
+- Offered strategic guidance on investments and expenditures through comprehensive customer data analysis.
+- Excelled in resolving complex client financial issues, articulating information clearly, and ensuring overall customer satisfaction.
 
 
 
