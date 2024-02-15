@@ -1,7 +1,11 @@
 title: George Lee
 logo: pic/Picture2.jpg
-Education:
-123
+social-network-links:
+  email: "georgelee0322@gmail.com"
+  tableau: "https://public.tableau.com/app/profile/george.lee0322/vizzes"
+share-links-active:
+  email: true
+  tableau: true
 
 
 theme: jekyll-theme-minimal
